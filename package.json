@@ -11,5 +11,13 @@
   "license": "ISC",
   "dependencies": {
     "request": "^2.88.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bainjen/JSON_the_cat.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bainjen/JSON_the_cat/issues"
+  },
+  "homepage": "https://github.com/bainjen/JSON_the_cat#readme"
 }
